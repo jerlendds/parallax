@@ -25,6 +25,7 @@
     - [TAO:Facebook’s Distributed Data Store for the Social Graph](./resources/TAO_%20Facebook’s%20Distributed%20Data%20Store%20for%20the%20Social%20Graph-11730-atc13-bronson.pdf.pdf)
     - [The MemSQL Query Optimizer: A modern optimizer for real-time analytics in a distributed database](./resources/The%20MemSQL%20Query%20Optimizer_%20A%20modern%20optimizer%20forreal-time%20analytics%20in%20a%20distributed%20database-p1401-chen.pdf)
     - [The Volcano Optimizer Generator: Extensibility and Efficient Search](./resources/The%20Volcano%20optimizer%20generator_%20extensibility%20and%20efficient%20search.pdf)
+    - [Noria: dynamic, partially-stateful data-flow for high-performance web applications](./resources/osdi18-noria.pdf)
 
 
 2. Add code-studies directory to .gitignore. This directory contains the following database repos for study:
@@ -36,3 +37,4 @@
     - https://github.com/TuGraph-family/tugraph-db
     - https://github.com/toeverything/OctoBase
     - https://github.com/tursodatabase/limbo
+    - https://github.com/mit-pdos/noria
