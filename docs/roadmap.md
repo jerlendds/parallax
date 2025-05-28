@@ -12,4 +12,4 @@ Parallax was started May 28, 2025.
 |---------|-----------------------------------------------------------------------------------------------|------------|
 | 0.0.1   | Initial collecting of codebases to study and [resources on database internals]((../dump/))    | 2025.5.28  |
 
-For more detailed information, refer to the "[root]/CHANGELOG.md" file in the source code directory.
+For more detailed information, refer to the "[/CHANGELOG.md](../CHANGELOG.md)" file in the source code directory.
